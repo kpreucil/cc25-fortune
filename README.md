@@ -5,4 +5,4 @@ Fun, short project experimenting Handlebars. Utilizes flat file storage currentl
 ...
 
 To View:
-click on the fortunes-demo.mov file and view raw
+click on the fortun-demo.mov file and view raw
