@@ -1,0 +1,32 @@
+body{
+    /*background-color: indianred;*/
+    background-color: #E56160;
+    font-family: sans-serif;
+    text-align: center;
+    color: #421C1C;
+}
+
+h1 {
+	color: #873540;
+	font-size: 45px;
+	font-family: 'Rye', cursive;
+	letter-spacing: 2px;
+}
+
+.vCenter {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.hCenter {
+	margin-left: 25%;
+}
+
+.quote {
+	font-size: 20px;
+}
+
+#box {
+	width: 500px;
+}
